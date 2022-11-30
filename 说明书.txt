@@ -1,0 +1,2 @@
+打开"Shell.bat"
+键入"python launcher.py"
